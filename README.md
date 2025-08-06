@@ -160,7 +160,7 @@ Make sure to replace the empty `apiKey` strings in `server/index.js` and `server
 ## 📁 Project Structure
 
 ```
-pdf-rag-code/
+AI RAG Application/
 ├── client/                 # Next.js frontend
 │   ├── app/
 │   │   ├── components/     # React components
